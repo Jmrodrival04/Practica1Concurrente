@@ -1,4 +1,7 @@
 # Proyecto 1 Programación Concurrente: Sistema de Seguridad Concurrente para Stark Industries
+#### Enlace al repositorio: https://github.com/Jmrodrival04/Practica1Concurrente
+
+## Descripción del proyecto:
 Este proyecto tiene como objetivo desarrollar un sistema de seguridad avanzado utilizando Spring Boot para gestionar múltiples sensores en tiempo real. 
 Para trabajar eficazmente se ha dividido la planificación del proyecto en 2 fases:
 
