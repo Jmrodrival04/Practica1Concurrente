@@ -24,10 +24,11 @@ Para trabajar eficazmente se ha dividido la planificación del proyecto en 2 fas
     - Utiliza `@Async` para procesar los datos de los sensores de forma concurrente.
     - Investiga sobre la inyección de dependencias y el uso de Beans en Spring para gestionar los sensores.
 
-### INGENIERO DE SEGURIDAD
+### INGENIERO DE SEGURIDAD (Pablo Edu)
 - **Responsabilidades**: Configurar el sistema de autenticación y autorización para el control de acceso, garantizar la seguridad del sistema.
 - **Tareas clave**:
     - Configurar **Spring Security** para autenticar usuarios.
+    - Crear BD de usuarios 
     - Definir roles (e.g., administrador, operador) y permisos.
     - Proteger las rutas y servicios según el rol del usuario.
 - **Consejos**:
